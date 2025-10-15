@@ -4,6 +4,7 @@ plugins {
 }
 
 android {
+    namespace = "com.skypie.crtoverlay"
     compileSdk = 34
     defaultConfig {
         applicationId = "com.skypie.crtoverlay"
